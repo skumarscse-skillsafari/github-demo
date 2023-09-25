@@ -1,0 +1,9 @@
+A Version Control System is a tool you use to track, make, and manage changes to your software code. It's also called source control.
+
+A version control system helps developers store every change they make to a file at different stages so they and their teammates can retrieve those changes at a later time.
+
+There are three types of version control systems, which are:
+
+Local Version Control Systems
+Centralized Version Control Systems
+Distributed Version Control Systems.
